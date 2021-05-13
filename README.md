@@ -1,5 +1,5 @@
 # port-punisher
-A quick port scanner that scans all 65535 ports and enumerates services on a host in under 40 seconds.
+A quick multiprocessing port scanner that scans all 65535 ports and enumerates services on a host in under 40 seconds.
 
 - Can scan both single ip addresses or hostnames
 - Can scan lists of ip addresses or hostnames (1 per line)
@@ -36,5 +36,17 @@ python3 port-scan.py -F targets.txt -W 2000 -O output.txt
 **Change Start and End Port range:**
 
 python3 port-scan.py -F targets.txt -SP 1 -EP 1000 -W 1000 -O output.txt
+
+Screenshots:
+-
+
+**Single Host:**
+
+![alt text](https://github.com/alegra8611/port-punisher/tree/main/screenshots/port1.png?raw=true)
+
+**Multiple Host:**
+
+![alt text](https://github.com/alegra8611/port-punisher/tree/main/screenshots/port2.png?raw=true)
+
 
 
