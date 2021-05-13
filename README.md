@@ -17,19 +17,19 @@ git clone https://github.com/alegra8611/port-punisher.git
 Usage:
 -
 
-**Scan single host on all ports:
+**Scan single host on all ports:**
 
 python3 port-scan.py -T target.com
 
-**Scan single host and save output:
+**Scan single host and save output:**
 
 python3 port-scan.py -T target.com -O output.txt
 
-**Scan list of hosts:
+**Scan list of hosts:**
 
 python3 port-scan.py -F targets.txt -O output.txt
 
-**Increase workers:
+**Increase workers:**
 
 python3 port-scan.py -F targets.txt -W 2000 -O output.txt
 
