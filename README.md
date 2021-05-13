@@ -33,7 +33,7 @@ python3 port-scan.py -F targets.txt -O output.txt
 
 python3 port-scan.py -F targets.txt -W 2000 -O output.txt
 
-**Change Star and End Port range:**
+**Change Start and End Port range:**
 
 python3 port-scan.py -F targets.txt -SP 1 -EP 1000 -W 1000 -O output.txt
 
