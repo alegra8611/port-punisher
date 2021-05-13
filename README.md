@@ -46,7 +46,7 @@ Single Host:
 
 Multiple Host:
 
-![alt text](https://github.com/alegra8611/port-punisher/tree/main/screenshots/port2.png?raw=true)
+![alt text](https://github.com/alegra8611/port-punisher/blob/main/screenshots/port2.png?raw=true)
 
 
 
