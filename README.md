@@ -40,11 +40,11 @@ python3 port-scan.py -F targets.txt -SP 1 -EP 1000 -W 1000 -O output.txt
 Screenshots:
 -
 
-Single Host:
+**Single Host:**
 
 ![alt text](https://github.com/alegra8611/port-punisher/blob/main/screenshots/port1.png?raw=true)
 
-Multiple Host:
+**Multiple Host:**
 
 ![alt text](https://github.com/alegra8611/port-punisher/blob/main/screenshots/port2.png?raw=true)
 
